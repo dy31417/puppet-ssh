@@ -1,0 +1,18 @@
+{
+  "name": "dy31417-ssh",
+  "version": "0.1.0",
+  "author": "David Yeboah <solariszone@yahoo.com>",
+  "summary": "This module is the alpha to manage ssh.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/dy31417/puppet-ssh",
+  "project_page": "https://github.com/dy31417/puppet-ssh",
+  "issues_url": "https://github.com/dy31417/puppet-ssh/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
